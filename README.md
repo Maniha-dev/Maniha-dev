@@ -1,33 +1,33 @@
 <!-- GitHub Profile README for Maniha-dev -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:38bdf8&height=220&section=header&text=Maneeha%20Nasir&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Maneeha%20Nasir&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=7dd3fc&center=true&vCenter=true&width=700&lines=Building+Full-Stack+Applications+with+MERN;Learning+Golang+and+AI%2FML;Growing+as+a+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7dd3fc&center=true&vCenter=true&width=700&lines=Building+with+the+MERN+Stack;Learning+Golang+and+AI%2FML;Developing+Full-Stack+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&labelColor=0f172a" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-7dd3fc?style=for-the-badge&labelColor=0f172a" alt="Open to Work" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maniha-dev&color=7dd3fc&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Maniha-dev&label=Profile%20Views&color=7dd3fc&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/Maniha-dev?tab=followers">
     <img src="https://img.shields.io/github/followers/Maniha-dev?label=Followers&style=flat-square&color=7dd3fc" alt="GitHub Followers" />
   </a>
 </p>
 
-About Me
+Professional Profile
 
-I'm a Computer Science student and an aspiring Software Engineer focused on building full-stack web applications.
-
-I am currently working with the MERN Stack while learning Golang and exploring Artificial Intelligence and Machine Learning.
-
-Full-Stack Development  → React, Node.js, Express.js, MongoDB
-Backend Learning        → Golang
-Emerging Technologies   → AI and Machine Learning
+const maneeha = {
+  title: "Computer Science Student & Aspiring Software Engineer",
+  technicalFocus: ["MERN Stack", "Golang (Learning)", "AI/ML (Learning)"],
+  featuredProjects: ["Stylic.pk", "Ecommerce-Store"],
+  currentStatus: "Open to work",
+  opportunities: ["Software Engineering Opportunities"]
+};
 
 Featured Projects
 
@@ -43,52 +43,28 @@ Full-stack MERN e-commerce platform.
 
 React · Node.js · Express.js · MongoDB
 
-Tech Stack
-
-JavaScript
-
-Go
-
-React
-
-Node.js
-
-Express.js
-
-MongoDB
-
-<img src="https://skillicons.dev/icons?i=js" width="48"/>
-
-<img src="https://skillicons.dev/icons?i=go" width="48"/>
-
-<img src="https://skillicons.dev/icons?i=react" width="48"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs" width="48"/>
-
-<img src="https://skillicons.dev/icons?i=express" width="48"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb" width="48"/>
-
-GitHub Stats
+Technical Expertise
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Maniha-dev&show_icons=true&theme=nord&hide_border=true&title_color=7dd3fc&text_color=eceff4&icon_color=7dd3fc" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maniha-dev&layout=compact&theme=nord&hide_border=true&title_color=7dd3fc&text_color=eceff4" />
+  <img src="https://skillicons.dev/icons?i=js,go,react,nodejs,express,mongodb&perline=6" alt="Technical Stack" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Maniha-dev&theme=nord&hide_border=true&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" />
+  JavaScript &nbsp;|&nbsp; Golang &nbsp;|&nbsp; React &nbsp;|&nbsp; Node.js &nbsp;|&nbsp; Express.js &nbsp;|&nbsp; MongoDB
 </p>
 
-LeetCode
+GitHub Statistics
 
-Platform
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Maniha-dev&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maniha-dev&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc" />
+</p>
 
-Profile
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Maniha-dev&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" />
+</p>
 
-LeetCode
-
-@Maneeha_Dev
+LeetCode Statistics
 
 <p align="center">
   <a href="https://leetcode.com/u/Maneeha_Dev/">
@@ -99,23 +75,20 @@ LeetCode
 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maniha-dev&bg_color=2e3440&color=7dd3fc&line=7dd3fc&point=eceff4&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maniha-dev&bg_color=2e3440&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=false" />
 </p>
 
-Connect With Me
+Connect
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/maneeha-nasir/">
-    <img src="https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/Maneeha_Dev/">
-    <img src="https://img.shields.io/badge/LeetCode-7dd3fc?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f172a" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LinkedIn-Maneeha%20Nasir-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:maneehanasir.2024@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:38bdf8&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=120&section=footer" />
 </p>
