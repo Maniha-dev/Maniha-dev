@@ -10,6 +10,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Work-7dd3fc?style=for-the-badge&labelColor=0f172a" alt="Open to Work" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maniha-dev&label=Profile%20Views&color=7dd3fc&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/Maniha-dev?tab=followers">
     <img src="https://img.shields.io/github/followers/Maniha-dev?label=Followers&style=flat-square&color=7dd3fc" alt="GitHub Followers" />
@@ -34,15 +37,11 @@ Handmade jewelry e-commerce store.
 
 React · Node.js · Express.js · MongoDB
 
-View Repository
-
 Ecommerce-Store
 
 Full-stack MERN e-commerce platform.
 
 React · Node.js · Express.js · MongoDB
-
-View Repository
 
 Technical Expertise
 
@@ -65,16 +64,12 @@ GitHub Statistics
   <img src="https://streak-stats.demolab.com?user=Maniha-dev&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" />
 </p>
 
-LeetCode
+LeetCode Statistics
 
 <p align="center">
   <a href="https://leetcode.com/u/Maneeha_Dev/">
-    <img src="https://img.shields.io/badge/LeetCode-Maneeha__Dev-7dd3fc?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+    <img src="https://leetcard.jacoblin.cool/Maneeha_Dev?theme=nord&border=1&radius=10" alt="LeetCode Statistics" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Maneeha_Dev/">View my LeetCode profile</a>
 </p>
 
 Contribution Activity
