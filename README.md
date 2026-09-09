@@ -1,16 +1,13 @@
 <!-- GitHub Profile README for Maniha-dev -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7dd3fc,100:0ea5e9&amp;height=220&amp;section=header&amp;text=Maneeha%20Nasir&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Aspiring%20Full%20Stack%20%26%20AI%20Engineer&amp;descAlignY=58&amp;descSize=18" alt="Maneeha Nasir Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7dd3fc,100:0ea5e9&amp;height=220&amp;section=header&amp;text=Maneeha%20Nasir&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Aspiring%20Full%20Stack%20%26%20AI%20Engineer&amp;descAlignY=58&amp;descSize=18" alt=" Banner" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=7dd3fc&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+Full-Stack+MERN+Applications%3BExploring+AI%2FML+and+Golang%3BDeveloping+Backend+APIs+and+Databases" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Internship%20Opportunities-7dd3fc?style=for-the-badge&amp;labelColor=0f172a" alt="Open to Internship Opportunities" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maniha-dev&amp;label=Profile%20Views&amp;color=7dd3fc&amp;style=flat-square" alt="Profile Views" />
@@ -24,9 +21,10 @@
 
 # 👩‍💻 Who I Am
 
-I'm an **Aspiring Full Stack & AI Engineer** and a **5th-semester BS Computer Science student at Lahore College for Women University (LCWU)** with a **3.51 CGPA**.
+I'm an **Aspiring Full Stack & AI Engineer** and BS Computer Science student  with a **3.51 CGPA**.
 
-I enjoy building **full-stack MERN applications**, developing **backend APIs**, and working with **databases**. Currently, I am also expanding my knowledge in **Artificial Intelligence, Machine Learning, and Golang**.
+Focused on becoming a Full-Stack Developer specializing in AI-powered applications, backend development, and scalable software systems.
+Currently, I am also expanding my knowledge in **Artificial Intelligence, Machine Learning, and Golang**.
 
 **My current technical focus includes:**
 
@@ -36,13 +34,12 @@ I enjoy building **full-stack MERN applications**, developing **backend APIs**, 
 
 **3. AI/ML Learning** — Exploring Artificial Intelligence and Machine Learning while building my technical foundation.
 
-I have completed a **NAVTTC Full Stack Development course**, am part of the **Dev Weekend Fellowship**, and am currently gaining experience through a **FlyRank AI Internship**.
 
 ```ts
 const maneeha = {
   title: "Aspiring Full Stack & AI Engineer",
 
-  education: "5th Semester BS Computer Science Student at LCWU",
+  education: "5th Semester BS Computer Science Student \",
 
   cgpa: "3.51",
 
@@ -59,11 +56,6 @@ const maneeha = {
     "Golang"
   ],
 
-  featuredProjects: [
-    "Stylic.pk",
-    "Ecommerce-Store"
-  ],
-
   certification: "NAVTTC Full Stack Development",
 
   experience: [
@@ -77,9 +69,6 @@ const maneeha = {
 
   status: "Learning, Building & Growing as a Developer",
 
-  openTo: [
-    "Internship Opportunities"
-  ]
 };
 ```
 
