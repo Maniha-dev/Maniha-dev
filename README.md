@@ -194,11 +194,11 @@ A full-stack MERN e-commerce platform focused on modern online shopping function
 
 ---
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Maniha-dev)
 
----
+--- -->
 
 # 🧩 LeetCode Statistics
 
@@ -212,7 +212,7 @@ A full-stack MERN e-commerce platform focused on modern online shopping function
 </p>
 
 ---
-
+<!--
 # 📈 Contribution Activity
 
 <p align="center">
@@ -222,7 +222,7 @@ A full-stack MERN e-commerce platform focused on modern online shopping function
   />
 </p>
 
----
+--- -->
 
 # 🤝 Connect With Me
 
