@@ -19,30 +19,42 @@
   </a>
 </p>
 
-Professional Profile
-
 const maneeha = {
-  title: "Computer Science Student & Aspiring Software Engineer",
-  technicalFocus: ["MERN Stack", "Golang (Learning)", "AI/ML (Learning)"],
-  featuredProjects: ["Stylic.pk", "Ecommerce-Store"],
-  currentStatus: "Open to work",
-  opportunities: ["Software Engineering Opportunities"]
+  title: "Aspiring Full Stack & AI Engineer",
+  education: "5th Semester BS Computer Science Student at LCWU",
+  cgpa: "3.51",
+  
+  technicalFocus: [
+    "Full-Stack MERN Applications",
+    "Backend APIs & Databases",
+    "AI/ML Learning",
+    "Golang Learning"
+  ],
+  
+  technologies: [
+    "MERN Stack",
+    "AI/ML",
+    "Golang"
+  ],
+  
+  featuredProjects: [
+    "Stylic.pk",
+    "Ecommerce-Store"
+  ],
+  
+  certification: "NAVTTC Full Stack Development",
+  
+  achievements: [
+    "Dev Weekend Fellowship",
+    "FlyRank AI Program"
+  ],
+  
+  deployment: [
+    "Vercel"
+  ],
+  
+  currentStatus: "Learning, Building & Growing as a Developer"
 };
-
-Featured Projects
-
-Stylic.pk
-
-Handmade jewelry e-commerce store.
-
-React · Node.js · Express.js · MongoDB
-
-Ecommerce-Store
-
-Full-stack MERN e-commerce platform.
-
-React · Node.js · Express.js · MongoDB
-
 Technical Expertise
 
 <p align="center">
