@@ -1,22 +1,22 @@
 <!-- GitHub Profile README for Maniha-dev -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Maneeha%20Nasir&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Aspiring%20Full%20Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7dd3fc,100:0ea5e9&amp;height=220&amp;section=header&amp;text=Maneeha%20Nasir&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Aspiring%20Full%20Stack%20%26%20AI%20Engineer&amp;descAlignY=58&amp;descSize=18" alt="Maneeha Nasir Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7dd3fc&center=true&vCenter=true&width=700&lines=Building+Full-Stack+MERN+Applications;Exploring+AI%2FML+and+Golang;Developing+Backend+APIs+and+Databases" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=7dd3fc&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+Full-Stack+MERN+Applications%3BExploring+AI%2FML+and+Golang%3BDeveloping+Backend+APIs+and+Databases" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Internship%20Opportunities-7dd3fc?style=for-the-badge&labelColor=0f172a" alt="Open to Internship Opportunities" />
+  <img src="https://img.shields.io/badge/Open%20to-Internship%20Opportunities-7dd3fc?style=for-the-badge&amp;labelColor=0f172a" alt="Open to Internship Opportunities" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maniha-dev&label=Profile%20Views&color=7dd3fc&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Maniha-dev&amp;label=Profile%20Views&amp;color=7dd3fc&amp;style=flat-square" alt="Profile Views" />
 
   <a href="https://github.com/Maniha-dev?tab=followers">
-    <img src="https://img.shields.io/github/followers/Maniha-dev?label=Followers&style=flat-square&color=7dd3fc" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Maniha-dev?label=Followers&amp;style=flat-square&amp;color=7dd3fc" alt="GitHub Followers" />
   </a>
 </p>
 
