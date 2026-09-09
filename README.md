@@ -1,11 +1,11 @@
 <!-- GitHub Profile README for Maniha-dev -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Maneeha%20Nasir&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Student%20Learner%20%7C%20MERN%20Developer&descAlignY=58&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Maneeha%20Nasir&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Student%20%20%7C%20MERN%20Engineer&descAlignY=58&descSize=20" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7dd3fc&center=true&vCenter=true&width=600&lines=Building+with+the+MERN+Stack;Learning+Golang;Exploring+AI+and+Machine+Learning;Creating+E-commerce+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7dd3fc&center=true&vCenter=true&width=600&lines=Building+with+the+MERN+Stack+with+AI+Integration;Learning+Golang;Exploring+AI+and+Machine+Learning;Creating+E-commerce+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
