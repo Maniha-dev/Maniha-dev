@@ -1,15 +1,15 @@
 <!-- GitHub Profile README for Maniha-dev -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Maneeha%20Nasir&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Maneeha%20Nasir&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Aspiring%20Full%20Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7dd3fc&center=true&vCenter=true&width=700&lines=Building+with+the+MERN+Stack;Learning+Golang+and+AI%2FML;Developing+Full-Stack+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7dd3fc&center=true&vCenter=true&width=700&lines=Building+Full-Stack+MERN+Applications;Exploring+AI%2FML+and+Golang;Developing+Backend+APIs+and+Databases" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Work-7dd3fc?style=for-the-badge&labelColor=0f172a" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Open%20to-Internship%20Opportunities-7dd3fc?style=for-the-badge&labelColor=0f172a" alt="Open to Internship Opportunities" />
 </p>
 
 <p align="center">
@@ -19,53 +19,150 @@
   </a>
 </p>
 
+---
+
+# 👩‍💻 Who I Am
+
+I'm an **Aspiring Full Stack & AI Engineer** and a **5th-semester BS Computer Science student at Lahore College for Women University (LCWU)** with a **3.51 CGPA**.
+
+I enjoy building **full-stack MERN applications**, developing **backend APIs**, and working with **databases**. Currently, I am also expanding my knowledge in **Artificial Intelligence, Machine Learning, and Golang**.
+
+**My current technical focus includes:**
+
+**1. Full-Stack MERN Applications** — Building modern web applications using MongoDB, Express.js, React, and Node.js.
+
+**2. Backend APIs & Databases** — Developing backend services, REST APIs, and working with databases.
+
+**3. AI/ML Learning** — Exploring Artificial Intelligence and Machine Learning while building my technical foundation.
+
+I have completed a **NAVTTC Full Stack Development course**, am part of the **Dev Weekend Fellowship**, and am currently gaining experience through a **FlyRank AI Internship**.
+
+```ts
 const maneeha = {
   title: "Aspiring Full Stack & AI Engineer",
+
   education: "5th Semester BS Computer Science Student at LCWU",
+
   cgpa: "3.51",
-  
+
   technicalFocus: [
     "Full-Stack MERN Applications",
     "Backend APIs & Databases",
     "AI/ML Learning",
     "Golang Learning"
   ],
-  
+
   technologies: [
     "MERN Stack",
     "AI/ML",
     "Golang"
   ],
-  
+
   featuredProjects: [
     "Stylic.pk",
     "Ecommerce-Store"
   ],
-  
+
   certification: "NAVTTC Full Stack Development",
-  
-  achievements: [
+
+  experience: [
     "Dev Weekend Fellowship",
-    "FlyRank AI Program"
+    "FlyRank AI Internship"
   ],
-  
+
   deployment: [
     "Vercel"
   ],
-  
-  currentStatus: "Learning, Building & Growing as a Developer"
+
+  status: "Learning, Building & Growing as a Developer",
+
+  openTo: [
+    "Internship Opportunities"
+  ]
 };
-Technical Expertise
+```
+
+---
+
+# 🚀 Featured Projects
+
+## 💎 Stylic.pk
+
+Handmade jewelry e-commerce store built with modern full-stack web technologies.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,go,react,nodejs,express,mongodb&perline=6" alt="Technical Stack" />
+  <a href="https://github.com/Maniha-dev/Stylic.pk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maniha-dev&repo=Stylic.pk&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc" />
+  </a>
 </p>
+
+| Layer      | Technology          |
+| ---------- | ------------------- |
+| Frontend   | React               |
+| Backend    | Node.js, Express.js |
+| Database   | MongoDB             |
+| Deployment | Vercel              |
+
+🔗 **Live:** https://stylic-pk.vercel.app/products
+💻 **Code:** https://github.com/Maniha-dev/Stylic.pk
+
+---
+
+## 🛒 Ecommerce-Store
+
+A full-stack MERN e-commerce platform focused on modern online shopping functionality.
 
 <p align="center">
-  JavaScript &nbsp;|&nbsp; Golang &nbsp;|&nbsp; React &nbsp;|&nbsp; Node.js &nbsp;|&nbsp; Express.js &nbsp;|&nbsp; MongoDB
+  <a href="https://github.com/Maniha-dev/Ecommerce-Store">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maniha-dev&repo=Ecommerce-Store&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc" />
+  </a>
 </p>
 
-GitHub Statistics
+| Layer    | Technology          |
+| -------- | ------------------- |
+| Frontend | React               |
+| Backend  | Node.js, Express.js |
+| Database | MongoDB             |
+
+💻 **Code:** https://github.com/Maniha-dev/Ecommerce-Store
+
+---
+
+# 🛠️ Technical Expertise
+
+### 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,go,python,cpp,c" alt="Languages" />
+</p>
+
+### 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend Technologies" />
+</p>
+
+### ⚙️ Backend & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" alt="Backend Technologies" />
+</p>
+
+### 🤖 AI & Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" alt="AI and Machine Learning" />
+</p>
+
+### 🛠️ Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Development Tools" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Maniha-dev&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc" />
@@ -76,7 +173,17 @@ GitHub Statistics
   <img src="https://streak-stats.demolab.com?user=Maniha-dev&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" />
 </p>
 
-LeetCode Statistics
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Maniha-dev&theme=nord&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+# 🧩 LeetCode Statistics
 
 <p align="center">
   <a href="https://leetcode.com/u/Maneeha_Dev/">
@@ -84,18 +191,23 @@ LeetCode Statistics
   </a>
 </p>
 
-Contribution Activity
+---
+
+# 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maniha-dev&bg_color=2e3440&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=false" />
 </p>
 
-Connect
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maneeha-nasir/">
     <img src="https://img.shields.io/badge/LinkedIn-Maneeha%20Nasir-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:maneehanasir.2024@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
