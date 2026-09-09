@@ -14,6 +14,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maniha-dev&label=Profile%20Views&color=7dd3fc&style=flat-square" alt="Profile Views" />
+
   <a href="https://github.com/Maniha-dev?tab=followers">
     <img src="https://img.shields.io/github/followers/Maniha-dev?label=Followers&style=flat-square&color=7dd3fc" alt="GitHub Followers" />
   </a>
@@ -92,7 +93,10 @@ Handmade jewelry e-commerce store built with modern full-stack web technologies.
 
 <p align="center">
   <a href="https://github.com/Maniha-dev/Stylic.pk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maniha-dev&repo=Stylic.pk&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Maniha-dev&repo=Stylic.pk&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc"
+      alt="Stylic.pk Repository"
+    />
   </a>
 </p>
 
@@ -104,6 +108,7 @@ Handmade jewelry e-commerce store built with modern full-stack web technologies.
 | Deployment | Vercel              |
 
 🔗 **Live:** https://stylic-pk.vercel.app/products
+
 💻 **Code:** https://github.com/Maniha-dev/Stylic.pk
 
 ---
@@ -114,15 +119,21 @@ A full-stack MERN e-commerce platform focused on modern online shopping function
 
 <p align="center">
   <a href="https://github.com/Maniha-dev/Ecommerce-Store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maniha-dev&repo=Ecommerce-Store&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Maniha-dev&repo=Ecommerce-Store&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc"
+      alt="Ecommerce-Store Repository"
+    />
   </a>
 </p>
 
-| Layer    | Technology          |
-| -------- | ------------------- |
-| Frontend | React               |
-| Backend  | Node.js, Express.js |
-| Database | MongoDB             |
+| Layer      | Technology          |
+| ---------- | ------------------- |
+| Frontend   | React               |
+| Backend    | Node.js, Express.js |
+| Database   | MongoDB             |
+| Deployment | Vercel              |
+
+🔗 **Live:** https://ecommerce-store-two-ivory.vercel.app/
 
 💻 **Code:** https://github.com/Maniha-dev/Ecommerce-Store
 
@@ -133,31 +144,37 @@ A full-stack MERN e-commerce platform focused on modern online shopping function
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,go,python,cpp,c" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,go,python,cpp,c&perline=5" alt="Languages" />
 </p>
 
 ### 🎨 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&perline=6" alt="Frontend Technologies" />
 </p>
 
-### ⚙️ Backend & Infrastructure
+### ⚙️ Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql&perline=4" alt="Backend and Database Technologies" />
 </p>
 
-### 🤖 AI & Learning
+### 🤖 AI / ML
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" alt="AI and Machine Learning" />
 </p>
 
+### ☁️ Deployment & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
+</p>
+
 ### 🛠️ Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&perline=5" alt="Development Tools" />
 </p>
 
 ---
@@ -165,12 +182,25 @@ A full-stack MERN e-commerce platform focused on modern online shopping function
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Maniha-dev&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maniha-dev&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc" />
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=Maniha-dev&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc&cache_seconds=1800"
+    alt="GitHub Statistics"
+  />
+
+<img
+ width="40%"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maniha-dev&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc&cache_seconds=1800"
+ alt="Top Languages"
+/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Maniha-dev&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" />
+  <img
+    src="https://streak-stats.demolab.com?user=Maniha-dev&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -178,7 +208,10 @@ A full-stack MERN e-commerce platform focused on modern online shopping function
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maniha-dev&theme=nord&no-frame=true&no-bg=true&margin-w=10" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Maniha-dev&theme=nord&no-frame=true&no-bg=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -187,7 +220,10 @@ A full-stack MERN e-commerce platform focused on modern online shopping function
 
 <p align="center">
   <a href="https://leetcode.com/u/Maneeha_Dev/">
-    <img src="https://leetcard.jacoblin.cool/Maneeha_Dev?theme=nord&border=1&radius=10" alt="LeetCode Statistics" />
+    <img
+      src="https://leetcard.jacoblin.cool/Maneeha_Dev?theme=nord&border=1&radius=10"
+      alt="LeetCode Statistics"
+    />
   </a>
 </p>
 
@@ -196,7 +232,10 @@ A full-stack MERN e-commerce platform focused on modern online shopping function
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maniha-dev&bg_color=2e3440&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=false" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Maniha-dev&bg_color=2e3440&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=false"
+    alt="GitHub Contribution Activity Graph"
+  />
 </p>
 
 ---
@@ -204,15 +243,26 @@ A full-stack MERN e-commerce platform focused on modern online shopping function
 # 🤝 Connect With Me
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/maneeha-nasir/">
-    <img src="https://img.shields.io/badge/LinkedIn-Maneeha%20Nasir-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Maneeha%20Nasir-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 
   <a href="mailto:maneehanasir.2024@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Email-Contact%20Me-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
+
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=120&section=footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=120&section=footer"
+    alt="Footer"
+  />
 </p>
