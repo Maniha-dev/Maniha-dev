@@ -1,7 +1,6 @@
 <!-- GitHub Profile README for Maniha-dev -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7dd3fc,100:0ea5e9&amp;height=220&amp;section=header&amp;text=Maneeha%20Nasir&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Aspiring%20Full%20Stack%20%26%20AI%20Engineer&amp;descAlignY=58&amp;descSize=18" alt=" Banner" />
 </p>
 
 <p align="center">
